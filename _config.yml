@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "cato2000"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "살아보니 난 그냥 평범한 사람일뿐. 헌데 평범하게 사는것도 너무나 어렵네.."
+  location         : "서울 어딘가에"
+  email            : "cato2000@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
